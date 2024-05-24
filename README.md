@@ -1,4 +1,4 @@
-# CouReco :mortar_board:
+# Curriculuming :mortar_board:
 Building a Simple Course Recommendation system for online courses
 
 ## About the Project
